@@ -1,5 +1,5 @@
 Line 1
-Line 2
-Line 3
+Changed in main branch
+tryna force a conflict
 Line 4
 New code for the commit
