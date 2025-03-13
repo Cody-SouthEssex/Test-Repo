@@ -1,7 +1,5 @@
-Line 1
+Line 1 Yo
 Line 2
-Line 3
-Line 4
 New code for the commit
 New Code For the new branch
 Line 5
