@@ -2,4 +2,3 @@ New code for the commit
 New Code For the new branch
 Changed in main branch
 tryna force a conflict
-new line
