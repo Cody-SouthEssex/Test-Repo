@@ -1,5 +1,4 @@
-Line 1
+New code for the commit
+New Code For the new branch
 Changed in main branch
 tryna force a conflict
-Line 4
-New code for the commit
