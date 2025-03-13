@@ -1,5 +1,5 @@
-Line 1 Yo
-Line 2
 New code for the commit
 New Code For the new branch
-Line 5
+Changed in main branch
+tryna force a conflict
+new line
